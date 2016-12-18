@@ -1,3 +1,3 @@
-<?php
-	header("Location: http://www.google.com.tw");
-?>
+<script language="JavaScript">
+	location.href= ('http://www.google.com.tw');
+</script>
